@@ -20,7 +20,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
 </div>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acornforth&repo=github-readme-stats)
 
 ![Andrew's Github Stats](https://github-readme-stats.vercel.app/api?username=acornforth&count_private=true&show_icons=true&theme=dracula)
 
