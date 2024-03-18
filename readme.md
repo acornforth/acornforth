@@ -20,8 +20,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acornforth&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acornforth&repo=github-readme-stats)
 
-[![Andrew's Github Stats](https://github-readme-stats.vercel.app/api?username=acornforth&count_private=true&show_icons=true&theme=dracula)](https://github.com/acornforth/github-readme-stats)
+![Andrew's Github Stats](https://github-readme-stats.vercel.app/api?username=acornforth&count_private=true&show_icons=true&theme=dracula)
 
-[![Andrew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acornforth&count_private=true&layout=compact&theme=dracula&count_private=true)](https://github.com/acornforth/github-readme-stats)
+![Andrew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acornforth&count_private=true&layout=compact&theme=dracula&count_private=true)
