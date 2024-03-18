@@ -52,10 +52,10 @@
 
 <div style="display:flex;justify-content:space-between;">
 <div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=acornforth&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
+<img src="https://github-readme-stats-two-pi-42.vercel.app/api?username=acornforth&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acornforth&count_private=true&layout=compact&theme=dracula&count_private=true" alt="GitHub Top Langs" />
+<img src="https://github-readme-stats-two-pi-42.vercel.app/api/top-langs/?username=acornforth&count_private=true&layout=donut&theme=dracula&langs_count=8" alt="GitHub Top Langs" />
 </div>
 </div>
