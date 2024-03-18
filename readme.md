@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=acornforth&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acornforth&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
