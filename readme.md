@@ -50,12 +50,12 @@
 
 ---
 
-<div style="display:flex;justify-content:space-between;">
-<div align="center"> 
-<img src="https://github-readme-stats-two-pi-42.vercel.app/api?username=acornforth&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</div>
-
 <div align="center">
-<img src="https://github-readme-stats-two-pi-42.vercel.app/api/top-langs/?username=acornforth&count_private=true&layout=donut&theme=dracula&langs_count=8" alt="GitHub Top Langs" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img align="center" height="400px" src="https://github-readme-stats-two-pi-42.vercel.app/api?username=acornforth&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=22222200" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img align="center" height="400px"src="https://github-readme-stats-two-pi-42.vercel.app/api/top-langs/?username=acornforth&count_private=true&layout=donut-vertical&&bg_color=22222200&langs_count=8" alt="GitHub Top Langs" />
+</a>
 </div>
