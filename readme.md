@@ -15,7 +15,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=acornforth&style=flat-square&color=blue" alt=""/>
-
+[![streak](https://codeium.com/badges/v2/user/andrewcornforth/streak)](https://codeium.com/profile/andrewcornforth)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
 </div>
