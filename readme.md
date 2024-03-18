@@ -20,7 +20,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
 </div>
 
+<div style="display:flex;justify-content:space-between;">
+<div style="width: 50%;"> 
+<img src="https://github-readme-stats.vercel.app/api?username=acornforth&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</div>
 
-![Andrew's Github Stats](https://github-readme-stats.vercel.app/api?username=acornforth&count_private=true&show_icons=true&theme=dracula)
-
-![Andrew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acornforth&count_private=true&layout=compact&theme=dracula&count_private=true)
+<div style="width: 50%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acornforth&count_private=true&layout=compact&theme=dracula&count_private=true" alt="GitHub Top Langs" />
+</div>
+</div>
