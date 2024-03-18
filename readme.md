@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<div>
 <img src="https://komarev.com/ghpvc/?username=acornforth&color=blue" alt="" style="display: inline-block"/>
 <img src="https://codeium.com/badges/v2/user/andrewcornforth/streak" alt="" style="display: inline-block"/>
-
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300"/>
 </div>
