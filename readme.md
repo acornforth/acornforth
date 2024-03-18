@@ -22,11 +22,11 @@
 </div>
 
 <div style="display:flex;justify-content:space-between;">
-<div style="width: 50%;"> 
+<div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=acornforth&count_private=true&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
 
-<div style="width: 50%;">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acornforth&count_private=true&layout=compact&theme=dracula&count_private=true" alt="GitHub Top Langs" />
 </div>
 </div>
