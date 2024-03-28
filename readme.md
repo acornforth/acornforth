@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=acornforth&color=blue" alt="" style="display: inline-block"/>
-<img src="https://codeium.com/badges/v2/user/andrewcornforth/streak" alt="" style="display: inline-block"/>
+<a href="https://codeium.com/profile/andrewcornforth"><img src="https://codeium.com/badges/v2/user/andrewcornforth/streak" alt="" style="display: inline-block"/></a>
 </div>
 
 ---
