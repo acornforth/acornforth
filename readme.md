@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" title="Laravel" alt="Laravel" width="64" height="64"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="64" height="64"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"  alt="Go" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino"  alt="Arduino" width="64" height="64"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino"  alt="Arduino" width="64" height="64"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="64" height="64"/>&nbsp;
@@ -49,25 +49,25 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PgSQL"  alt="PgSQL" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim"  alt="Neovim" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" title="DenoJS" alt="DenoJS" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="64" height="64"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="64" height="64"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" title="DenoJS" alt="DenoJS" width="64" height="64"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="64" height="64"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terrafrom" alt="Terrafrom" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" alt="Digital Ocean" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="ArchLinuxWS" width="64" height="64"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="ArchLinuxWS" width="64" height="64"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postcss/postcss-original.svg" title="PostCSS"  alt="PostCSS" width="64" height="64"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/postcss/postcss-original.svg" title="PostCSS"  alt="PostCSS" width="64" height="64"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" title="Sonar"  alt="Sonar" width="64" height="64"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JB"  alt="JB" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP"  alt="GIMP" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape"  alt="Inkscape" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="PHPStorm"  alt="PHPStorm" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" title="GoLand"  alt="GoLand" width="64" height="64"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP"  alt="GIMP" width="64" height="64"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape"  alt="Inkscape" width="64" height="64"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="PHPStorm"  alt="PHPStorm" width="64" height="64"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" title="GoLand"  alt="GoLand" width="64" height="64"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket"  alt="BitBucket" width="64" height="64"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="64" height="64"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="64" height="64"/>&nbsp; -->
   
 </div>
 
